@@ -1,4 +1,4 @@
-# Featmap
+ Featmap
 
 Featmap is a user story mapping tool for product people to build, plan and communicate product backlogs.
 
